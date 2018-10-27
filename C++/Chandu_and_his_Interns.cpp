@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-typedef long long int lli;
+typedef unsigned long int lli;
 int main(){
     lli input;
     lli x;
